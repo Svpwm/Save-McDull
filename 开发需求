@@ -1,0 +1,6 @@
+通过一个具体任务来达成一个bert4task的框架开发（https://github.com/bojone/SPACES.git）
+1、能够使用bert的预训练模型进行后续的任务改造完成新的任务
+2、能够对bert模型里面的参数进行微调
+3、能够进行一定的封装从而使得这部分代码得到复用
+4、起一个666的名字：bert4task
+5、将基于tensorflow开发的bert改造成能够通过pytorch进行开发（难度较大）
